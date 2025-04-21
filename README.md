@@ -1,5 +1,5 @@
 # Cloud-data-Engineering-Student-Health
-# Student Mental Health Data Project (Azure)
+# Student Mental Health Data Project (using Microsoft Azure)
 
 This project analyzes student mental health trends using Azure-based cloud tools. It includes data ingestion, processing, and visualization.
 
@@ -14,7 +14,7 @@ This project analyzes student mental health trends using Azure-based cloud tools
 
 - `notebooks/`: Jupyter notebooks for cleaning and exploration
 - `script/`: Python scripts for Azure SDK usage
-- `azure/`: Infra diagrams or templates
+- `azure/`: diagrams or screenshot from platform
 - `dashboard/`: Screenshots or PBIX file for Power BI
 
 ## 📊 Key Insights
