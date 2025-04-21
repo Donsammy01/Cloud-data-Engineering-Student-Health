@@ -30,4 +30,4 @@ This project analyzes student mental health trends using Azure-based cloud tools
 3. Use notebooks or scripts for cleaning and processing.
 4. Power BI dashboard file available in `dashboard/`.
 
-> 📌 Note: Dataset is anonymized and for educational purposes only.
+> 📌 Note: Dataset is anonymized and for educational purposes only. 
