@@ -8,7 +8,7 @@ This project analyzes student mental health trends using Azure-based cloud tools
 - **Azure Blob Storage** – raw data storage
 - **Azure Data Factory** – data pipeline creation
 - **Power BI** – dashboard for mental health metrics
-- **Python (Pandas, Matplotlib)** – data cleaning & EDA
+- **Python (Pandas, Matplotlib)** – data cleaning & EDA (using Juypter notebook)
 
 ## 📁 Project Structure
 
